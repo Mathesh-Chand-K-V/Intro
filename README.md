@@ -1,205 +1,108 @@
-<h1 align="center">Hi 👋, I'm Mathesh Chand</h1>
-<h3 align="center">Computer Science Student | AI Developer | Building Intelligent Systems</h3>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Mathesh%20Chand%20K%20V&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontAlignY=65"/>
+</p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/Mathesh-Chand-K-V">
-    <img src="https://img.shields.io/github/followers/ Mathesh-Chand-K-V?label=Followers&style=for-the-badge" />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </a>
-  <a href="https://github.com/ Mathesh-Chand-K-V">
-    <img src="https://img.shields.io/github/stars/ Mathesh-Chand-K-V?affiliations=OWNER&style=for-the-badge" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mathesh-chand-k-v-b4232b361">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username= Mathesh-Chand-K-V&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mathesh-Chand-K-V&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 &nbsp;About Me
 
-```python
-class MatheshChand:
+```yaml
+name: Mathesh Chand K V
+location: Thoothukudi, Tamil Nadu, India
+education: B.Tech CSE @ VIT Bhopal
 
-    education = "B.Tech CSE @ VIT Bhopal"
+currently_building:
+  - JARVIS: fully local AI assistant (Ollama + Python)
+  - ERP + AI Integration Platform
 
-    interests = [
-        "Artificial Intelligence",
-        "Local LLMs",
-        "Automation",
-        "RAG Systems",
-        "Enterprise AI",
-        "System Design"
-    ]
+interests:
+  - Local LLMs & AI Agents
+  - RAG Systems
+  - Automation
+  - Enterprise AI
+  - System Design
 
-    currently_building = [
-        "JARVIS - Local AI Assistant",
-        "ERP + AI Integration Platform"
-    ]
-
-    goal = "Build production-grade AI systems"
+goal: Build production-grade AI systems that run offline
 ```
 
 ---
 
-# 🔭 Current Projects
+## 🚀 &nbsp;Tech Stack
 
-## 🤖 JARVIS
-
-A fully local AI assistant powered by Ollama.
-
-### Features
-
-- AI Chat
-- Memory System
-- OCR
-- Smart Document Reading
-- Web Search
-- Stable Diffusion Integration
-- Local Execution
-- Command Routing
-
----
-
-## 🏢 ERP + AI Assistant
-
-Building an intelligent ERP ecosystem capable of:
-
-- Natural Language Database Queries
-- AI Report Generation
-- Knowledge Retrieval
-- Employee Assistance
-- Business Analytics
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
+<h4>Languages</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </p>
 
-### Databases
-
+<h4>Databases</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
 </p>
 
-### Tools
-
+<h4>Tools & Platforms</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 </p>
 
-### AI & Machine Learning
-
-- Ollama
-- Local LLMs
-- RAG
-- OCR
-- Stable Diffusion
-- LangChain (Learning)
-- Vector Databases (Learning)
+<h4>AI / ML</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
-# 📚 Currently Learning
-
-- Advanced PostgreSQL
-- AI Engineering
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- Enterprise Software Architecture
-- Docker & Deployment
-- MLOps Fundamentals
-
----
-
-# 🏆 Goals for 2026
-
-- [ ] Build a production-ready AI Assistant
-- [ ] Complete ERP-AI Integration Project
-- [ ] Participate in National Hackathons
-- [ ] Contribute to Open Source
-- [ ] Deploy a full-stack AI application
-- [ ] Learn Cloud Deployment
-- [ ] Publish technical articles
-
----
-
-# 📊 GitHub Analytics
+## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username= Mathesh-Chand-K-V&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathesh-Chand-K-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-Chand-K-V&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username= Mathesh-Chand-K-V&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesh-Chand-K-V&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user= Mathesh-Chand-K-V&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathesh-Chand-K-V&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 &nbsp;Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username= Mathesh-Chand-K-V&theme=tokyo-night" />
+  <img src="https://github.com/Mathesh-Chand-K-V/Mathesh-Chand-K-V/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🧠 AI Journey
-
-```text
-Python
-   │
-   ├── Automation
-   │
-   ├── OCR
-   │
-   ├── Local LLMs
-   │
-   ├── RAG
-   │
-   ├── AI Agents
-   │
-   └── Enterprise AI Systems
-```
-
----
-
-# 🎯 Future Vision
-
-I aim to build intelligent software systems that combine:
-
-- Artificial Intelligence
-- Enterprise Applications
-- Automation
-- Local AI Infrastructure
-- Human-Centered Design
-
-to solve real-world problems at scale.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/ Mathesh-Chand-K-V">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/mathesh-chand-k-v-b4232b361">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
----
-
-<div align="center">
-
-### 💡 Building practical AI solutions, one project at a time.
-
-</div>
