@@ -2,13 +2,13 @@
 <h3 align="center">Computer Science Student | AI Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/Mathesh-Chand-K-V">
+    <img src="https://img.shields.io/github/followers/ Mathesh-Chand-K-V?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge" />
+  <a href="https://github.com/ Mathesh-Chand-K-V">
+    <img src="https://img.shields.io/github/stars/ Mathesh-Chand-K-V?affiliations=OWNER&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username= Mathesh-Chand-K-V&style=for-the-badge" />
 </p>
 
 ---
@@ -129,15 +129,15 @@ Building an intelligent ERP ecosystem capable of:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username= Mathesh-Chand-K-V&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username= Mathesh-Chand-K-V&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user= Mathesh-Chand-K-V&theme=tokyonight" />
 </p>
 
 ---
@@ -145,7 +145,7 @@ Building an intelligent ERP ecosystem capable of:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username= Mathesh-Chand-K-V&theme=tokyo-night" />
 </p>
 
 ---
@@ -187,11 +187,11 @@ to solve real-world problems at scale.
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ Mathesh-Chand-K-V">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/mathesh-chand-k-v-b4232b361">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
