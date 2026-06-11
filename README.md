@@ -24,7 +24,7 @@
 
 ```yaml
 name: Mathesh Chand K V
-location: Thoothukudi, Tamil Nadu, India
+location: Erode, Tamil Nadu, India
 education: B.Tech CSE @ VIT Bhopal
 
 currently_building:
