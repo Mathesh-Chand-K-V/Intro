@@ -1,108 +1,87 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Mathesh%20Chand%20K%20V&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=40&fontAlignY=65"/>
-</p>
+<div align="center">
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://github.com/Mathesh-Chand-K-V">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mathesh-chand-k-v-b4232b361">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Mathesh%20Chand%20K%20V&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Building%20AI%20systems&descAlignY=58&descSize=15" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathesh-Chand-K-V&style=flat-square&color=blue&label=Profile+Views"/>
-</p>
+<a href="https://github.com/Mathesh-Chand-K-V"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" background-color='white'/></a>
+<a href="https://linkedin.com/in/mathesh-chand-k-v-b4232b361"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/></a>
+<a href="mailto:matheshchandkv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="32"/></a>
 
----
+</div>
 
-## 👨‍💻 &nbsp;About Me
+<br/>
+
+## 👨‍💻 About Me
 
 ```yaml
 name: Mathesh Chand K V
 location: Erode, Tamil Nadu, India
-education: B.Tech CSE @ VIT Bhopal
+education: B.Tech CSE @ VIT Bhopal (CGPA 8.56)
 
 currently_building:
-  - JARVIS: fully local AI assistant (Ollama + Python)
+  - JARVIS: fully local AI assistant (Ollama + FastAPI + RAG)
   - ERP + AI Integration Platform
 
 interests:
   - Local LLMs & AI Agents
-  - RAG Systems
-  - Automation
-  - Enterprise AI
-  - System Design
-
-goal: Build production-grade AI systems that run offline
+  - Retrieval-Augmented Generation
+  - Multimodal AI (OCR, Speech, Image Gen)
+  - System Design & Backend Architecture
 ```
 
----
+<br/>
 
-## 🚀 &nbsp;Tech Stack
+## 🚀 Tech Stack
 
-<h4>Languages</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</p>
+**Languages**
 
-<h4>Databases</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 
-<h4>Tools & Platforms</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-</p>
+**Frameworks & Libraries**
 
-<h4>AI / ML</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
 
----
+**Databases**
 
-## 📊 &nbsp;GitHub Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathesh-Chand-K-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-Chand-K-V&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Tools & Platforms**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesh-Chand-K-V&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathesh-Chand-K-V&theme=tokyo-night&hide_border=true"/>
-</p>
+## 📌 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🐍 &nbsp;Contribution Graph
+### 🤖 [JARVIS — Local AI Assistant](https://github.com/Mathesh-Chand-K-V/JARVIS---Local-AI-Assistant)
+Fully local AI assistant powered by Ollama — combines RAG, OCR, speech recognition, text-to-speech, and image generation in one modular FastAPI backend. No cloud dependency.
 
-<p align="center">
-  <img src="https://github.com/Mathesh-Chand-K-V/Mathesh-Chand-K-V/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+`Python` `FastAPI` `PostgreSQL` `Ollama`
 
----
+</td>
+<td width="50%">
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+### 🗳️ [Election Management System](https://github.com/Mathesh-Chand-K-V/ELection-Management-System)
+A desktop application for conducting secure, accurate digital elections.
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://github.com/Mathesh-Chand-K-V/Mathesh-Chand-K-V/raw/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
