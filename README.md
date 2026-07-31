@@ -13,15 +13,15 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Mathesh Chand K V
-location: Erode, Tamil Nadu, India
-education: B.Tech CSE @ VIT Bhopal (CGPA 8.56)
+Name: Mathesh Chand K V
+Location: Erode, Tamil Nadu, India
+Education: B.Tech CSE @ VIT Bhopal (CGPA 8.56)
 
-currently_building:
+Currently Building:
   - JARVIS: fully local AI assistant (Ollama + FastAPI + RAG)
   - ERP + AI Integration Platform
 
-interests:
+Interests:
   - Local LLMs & AI Agents
   - Retrieval-Augmented Generation
   - Multimodal AI (OCR, Speech, Image Gen)
@@ -38,7 +38,7 @@ interests:
 
 **Frameworks & Libraries**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" width="40" title="Tkinter"/>
 
 **Databases**
 
@@ -53,7 +53,7 @@ interests:
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🤖 [JARVIS — Local AI Assistant](https://github.com/Mathesh-Chand-K-V/JARVIS---Local-AI-Assistant)
 Fully local AI assistant powered by Ollama — combines RAG, OCR, speech recognition, text-to-speech, and image generation in one modular FastAPI backend. No cloud dependency.
@@ -61,10 +61,18 @@ Fully local AI assistant powered by Ollama — combines RAG, OCR, speech recogni
 `Python` `FastAPI` `PostgreSQL` `Ollama`
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🗳️ [Election Management System](https://github.com/Mathesh-Chand-K-V/ELection-Management-System)
 A desktop application for conducting secure, accurate digital elections.
+
+`Python` `Tkinter`
+
+</td>
+<td width="33%">
+
+### 🗳️ [Smart-OCR-System](https://github.com/Mathesh-Chand-K-V/Smart-OCR-System)
+A computer vision–driven OCR pipeline with preprocessing, text detection, and recognition for high-accuracy text extraction. 
 
 `Python`
 
