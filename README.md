@@ -1,95 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Mathesh%20Chand%20K%20V&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Building%20AI%20systems&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mathesh-Chand-K-V/Mathesh-Chand-K-V/main/terminal-banner.svg" alt="Terminal banner" width="760"/>
 
-<a href="https://github.com/Mathesh-Chand-K-V"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" background-color='white'/></a>
-<a href="https://linkedin.com/in/mathesh-chand-k-v-b4232b361"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/></a>
-<a href="mailto:matheshchandkv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="32"/></a>
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathesh-chand-k-v-b4232b361)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matheshchandkv@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mathesh-Chand-K-V&style=flat-square&color=00F7FF)](https://github.com/Mathesh-Chand-K-V)
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## 🔭 About
 
-```yaml
-Name: Mathesh Chand K V
-Location: Erode, Tamil Nadu, India
-Education: B.Tech CSE @ VIT Bhopal (CGPA 8.56)
+Backend engineer and local-AI builder — I like software that doesn't need permission from a cloud provider to run. Most of what I build starts as "can this work fully offline?"
 
-Currently Building:
-  - JARVIS: fully local AI assistant (Ollama + FastAPI + RAG)
-  - ERP + AI Integration Platform
+**Currently:**
+- 🧠 **JARVIS** — a fully local AI assistant (Ollama + FastAPI + RAG), zero cloud dependency
+- 🏗️ an ERP + AI integration platform
+- 📚 deep in retrieval-augmented generation and multimodal AI (OCR, speech, image gen)
 
-Interests:
-  - Local LLMs & AI Agents
-  - Retrieval-Augmented Generation
-  - Multimodal AI (OCR, Speech, Image Gen)
-  - System Design & Backend Architecture
-```
+---
 
-<br/>
-
-## 🚀 Tech Stack
-
-**Languages**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-
-**Frameworks & Libraries**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
-
-**Databases**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-
-**Tools & Platforms**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-<br/>
-
-## 📌 Featured Projects
+## 🛠️ Stack
 
 <table>
 <tr>
-<td width="33%">
+<td valign="top" width="50%">
 
-### 🤖 [JARVIS — Local AI Assistant](https://github.com/Mathesh-Chand-K-V/JARVIS---Local-AI-Assistant)
-Fully local AI assistant powered by Ollama — combines RAG, OCR, speech recognition, text-to-speech, and image generation in one modular FastAPI backend. No cloud dependency.
+**Languages**
 
-`Python` `FastAPI` `PostgreSQL` `Ollama`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
-<td width="33%">
+<td valign="top" width="50%">
 
-### 🗳️ [Election Management System](https://github.com/Mathesh-Chand-K-V/ELection-Management-System)
-A desktop application for conducting secure, accurate digital elections.
+**AI / ML**
 
-`Python` `Tkinter`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-</td>
-<td width="33%">
+**Backend & Tools**
 
-### 🗳️ [Smart-OCR-System](https://github.com/Mathesh-Chand-K-V/Smart-OCR-System)
-A computer vision–driven OCR pipeline with preprocessing, text detection, and recognition for high-accuracy text extraction. 
-
-`Python`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-
-
-## 🐍 Contribution Graph
-
 <div align="center">
-<img src="https://github.com/Mathesh-Chand-K-V/Mathesh-Chand-K-V/raw/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Mathesh-Chand-K-V/Mathesh-Chand-K-V/main/skills-pulse.svg" alt="Skills pulse" width="760"/>
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+## 📌 Featured Builds
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 [JARVIS](https://github.com/Mathesh-Chand-K-V/JARVIS---Local-AI-Assistant)
+Fully local AI assistant powered by Ollama — RAG, OCR, speech-to-text, TTS, and image generation in one modular FastAPI backend. No cloud dependency, no API keys, no data leaving the machine.
+
+`Python` `FastAPI` `PostgreSQL` `Ollama`
+
+</td>
+<td width="33%" valign="top">
+
+### 🗳️ [Election Management System](https://github.com/Mathesh-Chand-K-V/ELection-Management-System)
+A desktop application for running secure, tamper-resistant digital elections end to end.
+
+`Python` `Tkinter`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔍 [Smart OCR System](https://github.com/Mathesh-Chand-K-V/Smart-OCR-System)
+A computer-vision OCR pipeline — preprocessing, text detection, and recognition tuned for high-accuracy extraction.
+
+`Python` `OpenCV`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mathesh-Chand-K-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesh-Chand-K-V&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-Chand-K-V&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to talking local LLMs, RAG pipelines, or why the cloud is optional
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer wave"/>
+
+</div>
