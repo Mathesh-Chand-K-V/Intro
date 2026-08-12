@@ -61,10 +61,6 @@ Backend engineer and local-AI builder — I like software that doesn't need perm
 </tr>
 </table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mathesh-Chand-K-V/Mathesh-Chand-K-V/main/skills-pulse.svg" alt="Skills pulse" width="760"/>
-</div>
-
 ---
 
 ## 📌 Featured Builds
@@ -103,12 +99,7 @@ A computer-vision OCR pipeline — preprocessing, text detection, and recognitio
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mathesh-Chand-K-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesh-Chand-K-V&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-Chand-K-V&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
